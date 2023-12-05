@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bijoy
-- 👀 I’m interested in Embedded Software Development and Engineering. 
+- 👀 I’m interested in Cybersecurity, Embedded Software Development & Engineering. 
 - 🌱 I’m currently learning CMake, Bash Scripting
 - 💞️ I’m looking to collaborate on Open Source Projects
 - 📫 How to reach me ...

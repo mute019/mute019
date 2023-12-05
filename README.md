@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @mute019
-- 👀 I’m interested in Embedded Software Development 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Bijoy
+- 👀 I’m interested in Embedded Software Development and Engineering. 
+- 🌱 I’m currently learning CMake, Bash Scripting
+- 💞️ I’m looking to collaborate on Open Source Projects
 - 📫 How to reach me ...
 
 <!---

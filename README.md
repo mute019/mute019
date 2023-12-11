@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Bijoy
-- 👀 I’m interested in Backend Development, Cybersecurity, Embedded Software Development & Engineering 
-- 🌱 I’m currently learning CMake, Bash Scripting
-- 💞️ I’m looking to collaborate on Open Source Projects
+- 👀 I’m interested in Cybersecurity, Embedded Software, Kernel & Driver Development.
+- 🌱 I’m currently learning CMake, and Bash Scripting (in-depth)
+- 💞️ I’m looking to collaborate on Open Source Projects 
 - 📫 How to reach me ...
 
 <!---

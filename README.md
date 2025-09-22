@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bijoy
-- 👀 I’m interested in Cybersecurity, Embedded Software, Kernel & Driver Development.
+- 👀 I’m interested in C++ Application development.
 - 🌱 I’m currently learning CMake, and Bash Scripting (in-depth)
 - 💞️ I’m looking to collaborate on Open Source Projects 
 - 📫 How to reach me ...
